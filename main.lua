@@ -1,4 +1,4 @@
---[[ Ghosty Ghostfight by Cameron Blankenship
+--[[ Ghost Chase by Cameron Blankenship
     
 This is the final project for CS50. A simple game where the player 
 moves left or right collecting projectiles to shoot at a ghost that 
