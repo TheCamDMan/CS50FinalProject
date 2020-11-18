@@ -34,6 +34,7 @@ function Ghost:init()
     self.sound['playerHit']:setVolume(0.25)
     self.sound['ghostHit']:setVolume(0.25)
 
+    hello
 end
 
 -- updates the ghost postion relative to the player postion
